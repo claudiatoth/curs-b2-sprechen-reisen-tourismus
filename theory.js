@@ -113,7 +113,7 @@ const theoryHTML = `
                         <tr><td class="verb">das Hostel · die Hostels</td><td class="ro-text">hostel / pensiune buget (anglicism)</td><td><em>Im Hostel teile ich das Zimmer mit anderen.</em></td></tr>
                         <tr><td class="verb">der Campingplatz · die Campingplätze</td><td class="ro-text">camping / campinguri (Umlaut!)</td><td><em>Auf dem Campingplatz schlafen wir im Zelt.</em></td></tr>
                         <tr><td class="verb">das Zelt · die Zelte</td><td class="ro-text">cortul / corturile</td><td><em>Mein Zelt ist für zwei Personen.</em></td></tr>
-                        <tr><td class="verb">die Übernachtung · -en</td><td class="ro-text">cazarea / cazările (pe noapte)</td><td><em>Die Übernachtung kostet 80 Euro.</em></td></tr>
+                        <tr><td class="verb">die Übernachtung · -en</td><td class="ro-text">cazarea / înnoptarea (pe noapte) · cazările</td><td><em>Die Übernachtung kostet 80 Euro.</em></td></tr>
                         <tr><td class="verb">das Frühstück · die Frühstücke</td><td class="ro-text">micul dejun / -urile (Umlaut!)</td><td><em>Frühstück ist im Preis inbegriffen.</em></td></tr>
                         <tr><td class="verb">der Sterne (Plural)</td><td class="ro-text">stelele (pentru hotel)</td><td><em>Ein 4-Sterne-Hotel ist Mittelklasse.</em></td></tr>
                     </tbody>

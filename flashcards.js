@@ -25,7 +25,7 @@ const flashcardsData = [
     { de: "das Hotel · die Hotels", ro: "hotelul · hotelurile (n)", audio: "audio/cards/13-hotel.wav" },
     { de: "die Ferienwohnung", ro: "apartament de vacanță, Airbnb (f)", audio: "audio/cards/14-ferienwohnung.wav" },
     { de: "der Campingplatz · die Campingplätze", ro: "campingul · campingurile (m, Umlaut!)", audio: "audio/cards/15-campingplatz.wav" },
-    { de: "die Übernachtung · die Übernachtungen", ro: "cazarea pe noapte · cazările (f)", audio: "audio/cards/16-uebernachtung.wav" },
+    { de: "die Übernachtung · die Übernachtungen", ro: "cazarea / înnoptarea pe noapte · cazările (f)", audio: "audio/cards/16-uebernachtung.wav" },
     { de: "das Frühstück inklusive", ro: "mic dejun inclus", audio: "audio/cards/17-fruehstueck-inklusive.wav" },
 
     // ===== Reisearten (5) =====
