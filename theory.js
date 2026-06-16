@@ -40,7 +40,7 @@ const theoryHTML = `
                 </table>
             </div>
 
-            <div class="theory-box" style="background:#dbeafe; border-color:#3b82f6;">
+            <div class="theory-box" style="background:#dbeafe; border-color:#D4A574;">
                 <h4>💡 Strukturen für die mündliche Prüfung</h4>
                 <ul>
                     <li><strong>Ich plane gerne</strong> + Akk: <em>Ich plane gerne meine Reisen.</em></li>
@@ -222,7 +222,7 @@ const theoryHTML = `
                 </table>
             </div>
 
-            <div class="theory-box" style="background:#dbeafe; border-color:#3b82f6;">
+            <div class="theory-box" style="background:#dbeafe; border-color:#D4A574;">
                 <h4>💡 Strukturen für die Argumentation (für Teil 2)</h4>
                 <ul>
                     <li><strong>Statt</strong> + Gen / <strong>statt zu</strong> + Inf: <em>Statt zu fliegen, fahre ich mit dem Zug.</em></li>
